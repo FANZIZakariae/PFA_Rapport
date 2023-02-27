@@ -16,5 +16,6 @@ Nous utiliserons les outils et les technologies suivantes pour réaliser notre p
 - Python pour le développement de l'application.
 - OpenCV pour les fonctions de traitement d'image et de détection d'objets.
 - TensorFlow pour la formation et le déploiement des modèles de détection d'objets.
+- YOLO pour la détection en temps réel d'objets dans les vidéos.
 
 Nous sommes convaincus que notre solution de traitement d'images contribuera à améliorer l'efficacité et la fiabilité des systèmes de surveillance vidéo dans les environnements critiques tels que les centres commerciaux, les zones industrielles ou les aéroports.
